@@ -1,0 +1,12 @@
+Ingresar el numero de subintervalos: 5
+
+Limite inicial: 1
+
+Limite final: 9
+
+Pasada numero: 1
+Pasada numero: 2
+Pasada numero: 3
+Pasada numero: 4
+La integral es: 246.080000
+El codigo se demoro 0.000000 segundos
